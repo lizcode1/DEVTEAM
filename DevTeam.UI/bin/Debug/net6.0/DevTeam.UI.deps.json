@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DevTeam.UI/1.0.0": {
+        "dependencies": {
+          "DevTeam.Data": "1.0.0",
+          "DevTeam.Repository": "1.0.0"
+        },
+        "runtime": {
+          "DevTeam.UI.dll": {}
+        }
+      },
+      "DevTeam.Data/1.0.0": {
+        "runtime": {
+          "DevTeam.Data.dll": {}
+        }
+      },
+      "DevTeam.Repository/1.0.0": {
+        "dependencies": {
+          "DevTeam.Data": "1.0.0"
+        },
+        "runtime": {
+          "DevTeam.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevTeam.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevTeam.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DevTeam.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

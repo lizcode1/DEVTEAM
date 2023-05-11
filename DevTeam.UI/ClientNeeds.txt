@@ -1,0 +1,33 @@
+
+
+You will need to create at least four different classes:
+- Two POCOS: 
+-Developer
+    Developers have Name Typeof(string)
+     ID numbers Typeof(int)
+    We also need to know whether or not they have access to the 
+    online learning tool: Pluralsight. (t/f) Typeof(bool)
+
+- DevTeam
+    (You will need to give the POCOs properties)
+    Team ID i.e Typeof(int)
+    Team members (Developers) List<T>(generic so you can put any properties in the angular T bracket. For this project we will put a list of developers i.e the POCO above) ->Developer> 
+    Team Name Typeof(string)
+
+- Two Repositories: DeveloperRepo, DevTeamRepo // collections -> and we can add performance actions on those collections
+    and Repos need CRUD methods as appropriate.
+-  User Interface  (Console Application)
+
+Clients will typically not give you all the info you need, so you may need to use your brain and peers to fill in the blanks!
+ (so feel free to use your own methods and user intereactions inthis application)
+
+
+Our managers need to be able to add and remove members to/from a team by their unique identifier.
+ They should be able to see a list of existing developers to choose from and add to existing teams. Odds are, the manager will create a team, 
+ and then add Developers individually from the Developer Directory to that team.
+
+Challenge: Our HR Department uses the software monthly to get a list of all our Developers that need a Pluralsight license.
+ Create this functionality in the Console Application
+
+Challenge: Some of our managers are nitpicky and would like the functionality to add multiple Developers to a team at once, 
+rather than one by one. Integrate this into your application.

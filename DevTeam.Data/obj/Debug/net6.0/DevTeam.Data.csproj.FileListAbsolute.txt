@@ -1,0 +1,12 @@
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\bin\Debug\net6.0\DevTeam.Data.deps.json
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\bin\Debug\net6.0\DevTeam.Data.dll
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\bin\Debug\net6.0\DevTeam.Data.pdb
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\DevTeam.Data.csproj.AssemblyReference.cache
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\DevTeam.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\DevTeam.Data.AssemblyInfoInputs.cache
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\DevTeam.Data.AssemblyInfo.cs
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\DevTeam.Data.csproj.CoreCompileInputs.cache
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\DevTeam.Data.dll
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\refint\DevTeam.Data.dll
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\DevTeam.Data.pdb
+C:\Elevenfifty_projects\DevTeam\DevTeam.Data\obj\Debug\net6.0\ref\DevTeam.Data.dll
